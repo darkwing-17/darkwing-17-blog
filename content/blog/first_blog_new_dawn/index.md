@@ -7,17 +7,10 @@ If you are reading this, then this blog apparently does work.
 
 I started this website officially a year ago but I am now currently building this up.
 
-This is going to become my new blog. I had set up similar blogs on WordPress, Blogger, and
-even on the old tried and true Xanga.com (RIP), but in a push to have a site to
-call my own, I am going to set up a site that was created using a content management system separate from WP.
-(Note: I no longer have a blog on either Blogger or WordPress anymore. Xanga closed itself out!)
+This is going to become my new blog. I had set up similar blogs on WordPress, Blogger, and even on the old tried and true Xanga.com (RIP), but in a push to have a site to call my own, I am going to set up a site that was created using a content management system separate from WP. (Note: I no longer have a blog on either Blogger or WordPress anymore. Xanga closed itself out!)
 
-In the coming days and weeks, I plan to use more of this blog, because I have noticed
-that I have not been able to utilize Facebook as much as I want. Due to Facebook's increasing
-control of what content they want to show their users, I am forced to take alternatives.
+In the coming days and weeks, I plan to use more of this blog, because I have noticed that I have not been able to utilize Facebook as much as I want. Due to Facebook's increasing control of what content they want to show their users, I am forced to take alternatives.
 
-This site originally went to a desktop site that I did as part of a class project,
-but I am going to re-orient my presence here to be mostly a blogroll. The class project
-website cannot be scaled easily to a mobile device and will be scrapped.
+This site originally went to a desktop site that I did as part of a class project, but I am going to re-orient my presence here to be mostly a blogroll. The class project website cannot be scaled easily to a mobile device and will be scrapped.
 
 Stay tuned as this new blog becomes fruition.
