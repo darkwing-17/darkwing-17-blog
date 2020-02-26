@@ -16,4 +16,8 @@ In the coming days and weeks, I plan to use more of this blog, because I have no
 that I have not been able to utilize Facebook as much as I want. Due to Facebook's increasing
 control of what content they want to show their users, I am forced to take alternatives.
 
+This site originally went to a desktop site that I did as part of a class project,
+but I am going to re-orient my presence here to be mostly a blogroll. The class project
+website cannot be scaled easily to a mobile device and will be scrapped.
+
 Stay tuned as this new blog becomes fruition.

@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        <strong>{author}</strong>&apos;s blog. This is a way of finding a new beginning after having spent much of his working life telling people how to watch films off a disc. Yes, when people watched from a disc.
+        <strong>{author}</strong>&apos;s blog. After having spent much of his working life telling people how movies work from playing discs, he's now hoping for a new beginning in software development, something that's more dynamic.
         {` `}
         <br></br>
         <a href={`https://twitter.com/${social.twitter}`}>
