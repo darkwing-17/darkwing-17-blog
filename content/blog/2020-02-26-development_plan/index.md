@@ -7,7 +7,7 @@ Here is the roadmap for my own website. Now, this website will always be under c
 
 In the coming days and weeks, however, there will be plans to make this a more functional website besides it being a blog.
 
-What I will not plan to do on this site, however, is for you to comment on my posts. I do not plan to have any frequent readers on this site, so I do not plan to have any commenting planned. If you have any questions about this site you are free to DM me on my Twitter feed. Business inquiries should go directly to my <A HREF="https://www.linkedin.com/in/echu916" target=_blank>LinkedIn profile</A>.
+What I will not plan to do on this site, however, is for you to comment on my posts here. I do not plan to have any frequent readers on this site, so I do not plan to have any commenting planned, though I will be exploring a potential option of having my blog posts automatically posted to my Twitter feed and you will comment there on Twitter, assuming you have a Twitter handle. If you have any questions about this site you are free to DM me on my Twitter feed. Business inquiries should go directly to my <A HREF="https://www.linkedin.com/in/echu916" target=_blank>LinkedIn profile</A>.
 
 This site was started on February 25, 2020.
 
