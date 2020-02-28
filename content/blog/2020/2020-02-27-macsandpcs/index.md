@@ -15,14 +15,9 @@ The return to Windows in desktop space is the first time I have had a Windows bo
 
 ## My new PC (pics soon)
 
-- CPU - AMD Ryzen 3900X
+- CPU - AMD Ryzen 9 3900X
 - Logicboard - ASUS ROG Strix X570-E
 - Hard drives - two 6 TB HGST's from my G-RAID Thunderbolt II enclosure
 - SSDs - Samsung 970 EVO NVMe 1 TB and Samsung 830 EVO SATA 500 GB
 - GPU - NVIDIA RTX 2070 Super (as EVGA 2070 XC)
-- PC case - NZXT H510i 
-
-
-
-
-
+- PC case - NZXT H510i
