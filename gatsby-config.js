@@ -2,14 +2,17 @@ module.exports = {
   siteMetadata: {
     title: `Because I have no time for games`,
     author: `Ed D. Chu`,
-    description: `Currently under construction.`,
+    description: `Personal website and web / UX portfolio site.`,
     siteUrl: `https://edchu.dev/`,
     social: {
       twitter: `darkwing17edc`,
       github: "https://github.com/darkwing-17",
+      linkedin: "https://www.linkedin.com/in/echu916",
+      kofi: "Coming soon",
+      patreon: "Coming soon",
     },  
   },
-  plugins: [
+  plugins: [    
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -45,6 +48,41 @@ module.exports = {
           `gatsby-remark-smartypants`,
         ],
       },
+    },
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        output: `/this_site_map.xml`,
+        query: `
+        {
+          site {
+            siteMetadata {
+              siteUrl
+            }
+          }
+
+          allSitePage {
+            edges {
+              node {
+                path
+              }
+            }
+          }      
+        
+        
+        
+        }`,
+        serialize: ({ site, allSitePage }) =>
+        allSitePage.edges.map(edge => {
+          return {
+            url: site.siteMetadata.siteUrl + edge.node.path,
+            changefreq: `daily`,
+            priority: 0.7,
+          }
+        })
+
+
+      }
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
