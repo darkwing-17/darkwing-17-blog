@@ -17,7 +17,19 @@ The return to Windows in desktop space is the first time I have had a Windows bo
 
 - CPU - AMD Ryzen 9 3900X
 - Logicboard - ASUS ROG Strix X570-E
-- Hard drives - two 6 TB HGST's from my G-RAID Thunderbolt II enclosure
+- Hard drives - two 6 TB HGST's from my G-RAID Thunderbolt II 
 - SSDs - Samsung 970 EVO NVMe 1 TB and Samsung 830 EVO SATA 500 GB
 - GPU - NVIDIA RTX 2070 Super (as EVGA 2070 XC)
 - PC case - NZXT H510i
+
+## Why move to a Windows PC?
+
+While I still use a Mac (and sometimes I do update this website or do work with my own MBP), the switch in desktop space to a Windows PC came down to a few things:
+
+- the newer Mac Pro was out of my price range
+- the newer Mac Pro's current CPU's (all Intel powered Xeons) were not as price competitive
+- the rise of AMD Ryzen power
+- the need of a machine that would grow with me
+- the need to get out of the iMac's all-in-one contained structure
+
+
