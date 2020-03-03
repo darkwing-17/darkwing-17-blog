@@ -15,15 +15,17 @@ The site was done with initial technologies at the time. HTML 3.0 was starting t
 
 Our group also posted some media onboard, like photographs. No one had digital cameras back then - all photos had to be scanned in and uploaded. We also had recorded messages (the predecessor to podcasts) from the speakers and posted them online to this website.
 
-The website also incorporated an early attempt at a messageboard that was driven with Perl scripts.
+The website also incorporated an early attempt at a messageboard that was driven with Perl scripts. The messageboard did not have as many visitors, so I never bothered keeping it up. After another year or so, I set up a new messageboard using phpBB software. 
 
-Before I left UC Riverside in 2001, I had to train a freshman (girl) to hand the site over. (One of which now works at Skechers the last time I checked.)
+(Note: As of now, I probably will not bother with messageboards, as everyone these days go to Reddit or social media like Twitter to discuss topics. Also, the recent data privacy regulations make it cumbersome to maintain messageboards, since the people who run them have to promise the members can delete their accounts and take their data with them.)
+
+Before I left UC Riverside in 2001, I had to train a freshman (girl) to hand the site over. (One of which now works at Skechers the last time I checked.) With the nature of the university years, the site as it would have looked now would not be the same anymore.
 
 ## The DVD and Blu-ray Disc days
 
-When I got my job at a DVD authoring production house in 2001, I had to relearn everything, naturally enough. Now I'm not doing websites anymore, I'm now doing disc authoring, which although utilized some of my programming skills, did not touch anything that was web development related.
+When I got my job at a DVD authoring production house in 2001, I had to relearn everything, naturally enough. It was a switch to disc authoring, which although utilized some of my programming skills, did not touch anything that was web development related.
 
-Time passed and I moved my web development to blogrolls. My job eventually took over and web development was put on the wayside, as I focused predominantly on software. It was not until my layoff in mid-2018 did I consider returning to web development.
+Time passed and I then moved my web development to blogrolls, while my job eventually took over and web development was put on the wayside, as I focused predominantly on software for DVD, then HD-DVD and then Blu-ray. It was not until my layoff in mid-2018 did I consider returning to web development.
 
 ## Web technologies back then and now
 
