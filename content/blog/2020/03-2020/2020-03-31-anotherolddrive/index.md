@@ -3,6 +3,7 @@ title: This other old external drive
 date: "2020-03-31T21:00"
 ---
 
+![another somewhat old drive](old_maxtor_onetouch.jpg)
 
 ## Another not ancient but just "old" drive
 
@@ -12,7 +13,7 @@ The G-RAID models are made by G Technology, which uses HGST drives only. Western
 
 Seagate bought Maxtor in the meantime, and now all elements of Maxtor has vanished into the Seagate brand. 
 
-The Maxtor drive brings more memories. Most files I had inside date to the late 2000s up to 2010. Had a lot of pictures dating back to the days when I was at Newsong Church (they had a Fullerton church campus as well as their Santa Ana one). I think I kept this drive as my main drive until I replaced it with a G-RAID Thunderbolt II. I migrated all data out of the Maxtor drive but never got around to retiring it, leaving it for dead. 
+The Maxtor drive brings more memories. Most files I had inside date to the late 2000s up to 2010. Had a lot of pictures dating back to the days when I was at Newsong Church (they had a Fullerton church campus as well as their Santa Ana one). I think I kept this drive as my main drive until I replaced it with a G-RAID Thunderbolt II. I migrated all data out of the Maxtor drive to the G-RAID, but never got around to retiring it, leaving it for dead. 
 
 I eventually decided to make use of my quarantine and get all of the data out of the OneTouch Backup drive to one of the My Book Duos. The Maxtor is going to be retired for good, this time.
 
