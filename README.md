@@ -5,6 +5,9 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
+
+<strong>This site was created using Gatsby. Feel free to read more about how you can set up your own blogroll site.</strong>
+
 <h1 align="center">
   Gatsby's blog starter
 </h1>
