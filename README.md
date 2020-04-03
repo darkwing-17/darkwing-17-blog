@@ -1,4 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b3ddebcb-d12b-4047-b14f-f7da1a945883/deploy-status)](https://app.netlify.com/sites/kind-lewin-9e79a1/deploys)
+
+<i>I created this site using Gatsby. Feel free to read more about how you can set up your own blogroll site.</i>
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -6,7 +9,6 @@
   </a>
 </p>
 
-<strong>This site was created using Gatsby. Feel free to read more about how you can set up your own blogroll site.</strong>
 
 <h1 align="center">
   Gatsby's blog starter
