@@ -13,7 +13,7 @@ Seagate bought Maxtor in the meantime, and now all elements of Maxtor has vanish
 
 The Maxtor drive brings more memories. Most files I had inside date to the late 2000s up to 2010. Had a lot of pictures dating back to the days when I was at Newsong Church (they had a Fullerton church campus as well as their Santa Ana one). I think I kept this drive as my main drive until I replaced it with a G-RAID Thunderbolt II. I migrated all data out of the Maxtor drive to the G-RAID, but never got around to retiring it, leaving it for dead. 
 
-The G-RAID and the single-drive G-Drive models are made by G Technology, which uses HGST drives only. Western Digital bought G Technology, so G Technology effectively is a subsidiary of WD, and since then, they have upgraded the G-RAID to use a Thunderbolt 3 connection. I retired the enclosure and took its two drives to my new PC. 
+The G-RAID and the single-drive G-Drive models are made by G Technology, which uses HGST drives only. Western Digital bought G Technology, so G Technology effectively is a subsidiary of WD, and since then, they have upgraded the G-RAID / G-Drive to use a Thunderbolt 3 connection. I retired the enclosure of my older G-RAID and took its two drives to my new PC. The G-RAID and G-Drive enclosures are not fully sealed, which made it a lot easier to take the drives out by just taking out their drive racks and unscrewing the brackets.
 
 I eventually decided to make use of my quarantine and get all of the data out of the OneTouch Backup drive to one of the My Book Duos. The Maxtor is going to be retired for good, this time.
 
