@@ -28,10 +28,10 @@ While I acknowledged the existence of Kazaa and Napster as they started, they we
 
 Some of the bands do not exist anymore - DC Talk, especially (the group has been on a near-perpetual break and the band members have gone separate ways to solo careers). Steven C. Chapman still records music but not as often compared to his younger days. Michael W. Smith still records new music, however, even though I have not listened to them since my EDM switch. I did own some secular albums, and strangely enough, they are the only ones that I have kept:
 
-- The Police's greatest hits. This has been the first CD I ever owned. I'm curious if the CD is still good to play.
-- BSB's self titled album
-- New Order's first Best Of album (which first released in 1994)
-- A few U2 albums
+- The Police's greatest hits. This has been the first CD I ever owned. I'm curious if the CD is still good to play. The Police is widely known for its lead singer, Gordon Sumner (Sting), who still tours.
+- BSB's self titled album. BSB in 2019 reunited, released a new album, and now they do tours.
+- New Order's first Best Of album (which first released in 1994). New Order in recent years now does tours and released new material, as well as another hits album a few years ago titled "Total", which includes songs from their Joy Division days.
+- A few U2 albums.
 
 I bought these albums in a traditional record store. I remember days when one would venture into a Wherehouse, Tower, or a Virgin Megastore to buy music. And of course - they're all gone now.
 
