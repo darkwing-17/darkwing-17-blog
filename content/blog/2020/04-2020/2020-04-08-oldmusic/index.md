@@ -3,6 +3,9 @@ title: The old and the forgotten
 date: "2020-04-08T00:00"
 ---
 
+
+![who listens to these?](old_CD-Rs.jpg)
+
 ## Old music
 
 To bide my time in the quarantine days, I decided to start a long overdue cleanup of my game room.
