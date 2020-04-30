@@ -33,13 +33,15 @@ Also, I am going to research Gnomon Workshop and see what they offer before I sp
 
 ## Didn't you consider doing photography as a second job?
 
-The competition is just too cutthroat to do photography even as a side gig. I cannot expect to become a paid paparazzo overnight without going into serious debt. The aim right now is to enjoy photography shooting without expecting any kind of payment. Perhaps a time will come when I want to do some gig work.
+The competition is just too cutthroat to do photography even as a side gig. I cannot expect to become a paid paparazzo overnight without going into serious debt. The aim right now is to enjoy photography  without expecting any kind of payment. Perhaps a time will come when I want to do some gig work.
 
 ## Will you be doing other things besides game development, like graphic design?
 
-I am currently trialing the Affinity Suite applications, which have been reviewed with praise from various sources who are not willing to fork over money for Adobe's Creative Cloud suite. The minor gripe I have is that they charge 50 dollars* each per platform, so if I want a Mac version, I have to forget about getting a Windows version, or try to consider buying both. (* As of this posting they are offering a 50% discount until the 20th of May).
+I am currently trialing the Affinity Suite applications, which have been reviewed with praise from various sources who are not willing to fork over money for Adobe's Creative Cloud suite. The gripe I have is they charge 50 dollars* each per platform, so if I want a Mac version, I have to forget about getting a Windows version, or try to consider buying both. (* As of this posting they are offering a 50% discount until the 20th of May, and the price is 25 dollars).
 
-Since I switched my regular desktop machine from a Mac to a Windows machine, I would have to get the Windows apps, although I still own a MacBook Pro. The Affinity Designer app is similar to the Sketch app I used back when I did a UX class - and Sketch is for Macs ONLY, so I will have to get Affinity Designer eventually (an iPad version for Designer and Photo are available).
+Since I switched my regular desktop machine from a Mac to a Windows machine, I would have to get the Windows apps, although I still own a MacBook Pro. The Affinity Designer app is similar to the Sketch app I used back when I did a UX class - and Sketch is for Macs ONLY, so I will have to get Affinity Designer eventually. I already bought the iPad version of the Designer app.
+
+Currently I own the Photoshop Photography plan, which allows me to access the Photoshop apps, including the iPad version.
 
 I do not plan to do graphic design as a career, as I have no training at an established school like Otis or Art Center Pasadena, and I am not willing to pay a hell of a lot of money to go to either of those schools even if I do well. I am going to, however, do a bit of graphic art, but only to make it supplement whatever I want to do.
 
