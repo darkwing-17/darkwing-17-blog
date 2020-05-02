@@ -37,12 +37,13 @@ The competition is just too cutthroat to do photography even as a side gig. I ca
 
 ## Will you be doing other things besides game development, like graphic design?
 
-I am currently trialing the Affinity Suite applications, which have been reviewed with praise from various sources who are not willing to fork over money for Adobe's Creative Cloud suite. The gripe I have is they charge 50 dollars* each per platform, so if I want a Mac version, I have to forget about getting a Windows version, or try to consider buying both. (* As of this posting they are offering a 50% discount until the 20th of May, and the price is 25 dollars).
+I do not plan to do graphic design as a career, as I have no training at an established school like Otis or Art Center Pasadena, and I am not willing to pay a hell of a lot of money to go to either of those schools even if I do well. I am going to, however, do a bit of graphic art, but only to make it supplement whatever I want to do - which is coding.
 
-Since I switched my regular desktop machine from a Mac to a Windows machine, I would have to get the Windows apps, although I still own a MacBook Pro. The Affinity Designer app is similar to the Sketch app I used back when I did a UX class - and Sketch is for Macs ONLY, so I will have to get Affinity Designer eventually. I already bought the iPad version of the Designer app.
+There is one thing I will not do: return to the same job that I did back when I was at my former worksite. There's no market for Blu-ray Disc releases for movies. The software that is used to create them costs a fortune to license and the market for these "BD authors" as they are called, is getting smaller.
 
-Currently I own the Photoshop Photography plan, which allows me to access the Photoshop apps, including the iPad version.
+4K video is here already, and 8K isn't far behind. Movies in 4K can be streamed and as broadband infrastructure gets better, no one will want to get a Blu-ray player anymore to watch them. 4K Blu-ray players are a small segment of the market. For most households, the only Blu-ray player that they have is the game console. Sony's PS5 will have a 4K BD player, and so will Xbox Series X. Now, the Xbox One already had a 4K BD player, but the adoption rate is slow, and a key reason why Sony didn't put one in the Pro PS4.
 
-I do not plan to do graphic design as a career, as I have no training at an established school like Otis or Art Center Pasadena, and I am not willing to pay a hell of a lot of money to go to either of those schools even if I do well. I am going to, however, do a bit of graphic art, but only to make it supplement whatever I want to do.
+BD stand alone players do exist, but currently only LG and Sony make them (Oppo, Samsung and Panasonic have quit this segment already), and these players already work as streaming boxes. I do not see LG in this segment for long, and depending how Sony does, I won't be surprised if the PS5 will be the only Sony brand Blu-ray player you will be able to buy. Many of the 4K BD players cost around 200-300, which is the price of a game console. Those people will simply save more money to get that or a better game console. Families these days don't really watch a movie on only a traditional TV - they watch them on a TV, or a tablet, or smartphone. Movies are now streaming products.
 
+All of the authors I know left to other jobs that pay more or have a better worklife experience.
 
