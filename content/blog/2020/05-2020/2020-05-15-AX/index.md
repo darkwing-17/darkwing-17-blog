@@ -1,5 +1,5 @@
 ---
-title: Anime Expo: A personal history
+title: Anime Expo, a personal history
 date: "2020-05-15T22:00"
 ---
 
@@ -25,9 +25,9 @@ AX's in 2004-07 were AX's that I went on either 4 days or one day (I think I wen
 
 2007 was when AX went to Long Beach Convention Center, and aside from mishaps and crowd control problems, that AX was somewhat memorable. But I eventually stopped going to AX in their first years in LA (2008-11) as I turned my focus to San Diego's Comic Con.
 
-SDCC, however, started to get extremely congested and badges were very hard to get. I ran out of patience and wound up returning to AX (only SDCC's I went to were in 2006, 2009(?), 2011, 2016 and 2018-19) for their 2012 convention.
+SDCC, however, started to get extremely congested and badges were very hard to get. SDCC started selling out. As more SDCC years started to sell out, I ran out of patience with SDCC. The only SDCC's I went to were in 2006, 2009(?), 2011, 2016 and 2018-19 (2020 would have been the first volunteering year, now I will have to re-register for 2021 as a volunteer). I never got to experience SDCC for more than two days.
 
-In the 2012 convention, I only went 1 day. 2013-19 were years I took advantage of AX's Premier Fan access privileges.
+I returned to AX for 2012, and I only went 1 day. 2013-19 were years I took advantage of AX's Premier Fan access privileges. At the time AX already got very comfortable with their digs in LA Convention Center.
 
 AX 2013 was the first year I heard about Pac Set Tours, and a year later, took a trip with them to Japan. That is one AX I will remember.
 
@@ -37,9 +37,9 @@ As my tastes for anime changed, so has the culture.
 
 Over time, later AX's were conventions where I tend to focus more on the experience and less on the anime. Crunchyroll started to get popular, making binge watching anime mainstream - and making it almost unnecessary to go to a convention to do a screening unless it was an exclusive.
 
-When I first got into anime, I was into science fiction anime, so I gravitated toward Gundam or Macross / Robotech stuff. As time passed, I found myself loving anime that's more action oriented and are not in sci-fi, as well as dramas.
+When I first got into anime, I was into science fiction anime, so I gravitated toward Gundam or Macross / Robotech stuff. As time passed, I found myself loving anime that's more action oriented and are not in sci-fi, as well as dramas. I started watching Attack on Titan a few years ago (as of this post I haven't yet finished the 2nd season so don't spoil, even though the manga pretty much has advanced past the anime's story).
 
-If AX 2020 would have been held (it was cancelled), it would have been the first time I would have gone back to a regular 4-day pass as I was not able to fork over another 500+ to stay on Premier Fan status and I barely took advantage of the magic shopping hour in my previous Premier Fan years. The Premier Fans had a lounge to themselves that was stocked with beverages and A/C with sit-down sofas and while I managed to use the lounge more than a few times, I kind of wondered if it was worth it. It will be something I will miss when I return to AX 2021 as a regular 4-day attendee.
+If AX 2020 would have been held (it was cancelled), it would have been the first time I would have gone back to a regular 4-day pass as I was not able to fork over another 500+ to stay on Premier Fan status and I barely took advantage of the magic shopping hour in my previous Premier Fan years. The Premier Fans had a lounge to themselves that was stocked with beverages and A/C with sit-down sofas. It will be something I will miss when I return to AX 2021 as a regular 4-day attendee.
 
 ## Will I look at other anime cons?
 
