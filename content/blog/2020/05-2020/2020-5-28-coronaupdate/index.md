@@ -41,7 +41,7 @@ I am now contemplating going back to school - not bootcamps, though. I am now ev
 
 I am more than ready to make a long drive to Walnut (Mt. SAC) or Santa Monica instead. Summer enrollment window is now, so I have to make a decision quickly.
 
-Bootcamps are not worth the money IMHO. I went to one that was similar to a bootcamp and I got nowhere fast. Bootcamps offer networking opportunities and a coach but their tuition prices are twice as much as a community college, let alone a 4 year one. Fortunately a federal grant covered that certificate program and allowed me to come away with no debt.
+Bootcamps are not worth the money IMHO. I went to one that was similar to a bootcamp and I got nowhere fast. Bootcamps offer networking opportunities and a coach but their tuition prices are twice as much as a community college, let alone a 4 year one. Fortunately a federal grant covered that certificate program and allowed me to come away with no debt (the program would've cost me nearly 6000 USD otherwise)
 
 Community college also offer a pathway to a bachelor's degree if I want to do one.
 
