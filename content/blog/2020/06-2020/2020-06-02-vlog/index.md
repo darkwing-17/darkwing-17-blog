@@ -17,7 +17,7 @@ I could try using my drones again, but I have to use my Spark drone, which DJI h
 
 ## But...where to vlog?
 
-That's the most important part. In my times with photography, you need a serious travel budget to show everything you want - and unfortunately, I need a travel partner / date (it's hard to find one these days), so I have to do ones where I can go around in the city. At the time of this posting, however, a curfew has been imposed in LA County due to the George Floyd protests, so I will have to wait for the curfew to go away.
+That's the most important part. In my times with photography, you need a serious travel budget, and you need a travel mate - and unfortunately, I need a travel mate / date (it's hard to find one these days), so I have to do ones where I can go around in the city alone. At the time of this posting, however, a curfew has been imposed in LA County due to the George Floyd protests, so I will have to wait for the curfew to go away.
 
 Where could I go? It's still quarantine season as I speak.
 
