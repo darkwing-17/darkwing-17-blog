@@ -13,7 +13,7 @@ But I have to figure out what I should do and make this vlog work. I had conside
 
 I have a camera that's somewhat easy to carry, but it's a Panasonic G9, so it won't be quite as discreet and I'll have to figure out if I should just get an attachment for a smartphone and a small tripod.
 
-I could try using my drones again, but I have to use my Spark drone, which DJI has since replaced with the Mavic Mini, for some small stuff (I do own a Mavic 2 Pro but it is too big to use as a recreational personal drone) and I will be looking into replacing the Spark with the Mavic Mini.
+I could try using my drones again... but the only drone that would be suitable for personal stuff is the Spark, which DJI has since replaced with the Mavic Mini (I do own a Mavic 2 Pro but it is too big to use as a recreational personal drone) and I will be looking into replacing the Spark with the Mavic Mini.
 
 ## But...where to vlog?
 
