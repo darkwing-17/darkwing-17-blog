@@ -11,7 +11,9 @@ I am about to reach a dubious milestone... still out of work for 1 year and 10 m
 
 Still do not know yet if I want to undertake the certification exam, even though it is free. Because I need to ensure that the certification will send the right message professionally. Someone who has an Azure certification in (insert specialty here) means they will be able to do (this specialty) but more likely not (that other specialty that this person may be interested in).
 
-I am now contemplating more training options, including one likely path: returning to school via community college. It will be too late to enroll in the summer time, but autumn would be a likely. It also has to be something I'm willing to do even if I do get work. I applied to Santa Monica College and got a seat, but will have to ponder and browse options at SMC to find out what courses are available to take and what path I should go. There are two paths I'm looking at exploring - the animation path (see below) and the transfer-to-CS path (see below)
+I am now contemplating more training options, including one likely path: returning to school via community college. It will be too late to enroll in the summer time, but autumn would be a likely. It also has to be something I'm willing to do even if I do get work. I applied to Santa Monica College and Walnut's Mt. Sac, but will have to ponder and browse options at either of those two community colleges to find out what courses are available to take and what path I should go. There are two paths I'm looking at exploring - the animation path (see below) and the transfer-to-CS path (see below).
+
+I opted not to go to more local options like LB City College or Cerritos College as I feel Mt. Sac and SMC have a better pathway to transfer if I go there. Mt. Sac and SMC are the two leading community colleges locally with more of their students transferring to the UC / CSU systems.
 
 ## Animation
 
