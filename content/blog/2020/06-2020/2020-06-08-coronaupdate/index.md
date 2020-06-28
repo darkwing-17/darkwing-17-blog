@@ -21,13 +21,16 @@ I am now considering, perhaps seriously, to look at doing something that may inv
 
 I looked at other art schools - i.e. Academy of Art in SF, and Gnomon School of Visual Effects, but I am not willing to take out a second mortgage for their tuition, and I'm not sold on bootcamps yet.
 
-I will continue to go through my options, and speak with an advisor down in SMC to figure out where I should go. More likely I will be taking this program at SMC in a part-time basis so that I can still find work and get work while studying.
+I will continue to go through my options, and speak with an advisor down in SMC or Mt. Sac to figure out where I should go. More likely I will be taking this program at Mt. Sac / SMC in a part-time basis so that I can still find work and get work while studying.
 
 ## Transfer to CS
 
-Another option I will look at is whether to return to SMC to complete requisites for a transfer to a university BS degree elsewhere. This option will mean I will have to enroll in classes at SMC with a full coursework load. The real pitfall with this option: I need to study and not look for work. 
+Another option I will look at is whether to return to SMC or Mt. Sac to complete requisites for a transfer to a university BS degree elsewhere. This option will mean I will have to enroll in classes with a full coursework load. The real pitfall with this option: I need to study and not look for work. 
 
-Plus, the only degree I would try to finish at SMC would be a pathway to CS. SMC would not have upper division courses, that's the whole point of transfers.
+Plus, the only degree I would try to finish would be a pathway to CS. Neither would not have upper division courses, that's the whole point of transfers.
+
+
+
 
 
 
