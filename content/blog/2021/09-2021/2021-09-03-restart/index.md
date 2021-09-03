@@ -13,6 +13,6 @@ A reason I took classes in two community colleges is that they were all online. 
 
 - Nothing new relationship wise. 
 
-- In the meanwhile, I continue to do some freelance work, but it will be a challenge as I have found it's not quite as steady as getting a regular job where tasks and projects automatically get put in front of you.
+- In the meanwhile, I continue to do some freelance work, but it will be a challenge as I have found it's not quite as steady as getting a regular job where tasks and projects automatically get put in front of you. I am now on the job hunt, although I will continue to look for work on a freelance role.
 
 
