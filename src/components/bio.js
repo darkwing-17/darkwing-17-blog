@@ -60,6 +60,15 @@ const Bio = () => {
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow him on Twitter
         </a>
+        <br></br>
+        <a href={`${social.linkedin}`}>
+          or LinkedIn
+        </a>
+        <br></br>
+        <a href={`${social.graphicfolio}`}>
+         or see my folio
+        </a>
+        
       </p>
     </div>
   )
