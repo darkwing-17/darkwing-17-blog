@@ -6,7 +6,7 @@ module.exports = {
     siteUrl: `https://edchu.dev/`,
     social: {
       twitter: `darkwing17edc`,
-      graphicfolio: "https://echu916.myportfolio.com",
+      graphicfolio: "https://echu21.myportfolio.com",
       github: "https://github.com/darkwing-17",
       linkedin: "echu916",
       kofi: "Coming soon",
