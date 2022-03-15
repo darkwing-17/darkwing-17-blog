@@ -26,6 +26,8 @@ const Bio = () => {
           author
           social {
             twitter
+            linkedin
+            graphicfolio
           }
         }
       }
@@ -61,7 +63,7 @@ const Bio = () => {
           You should follow him on Twitter
         </a>
         <br></br>
-        <a href={`${social.linkedin}`}>
+        <a href={`https://www.linkedin.com/in/${social.linkedin}`}>
           or LinkedIn
         </a>
         <br></br>
