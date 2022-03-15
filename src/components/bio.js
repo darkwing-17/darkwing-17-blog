@@ -68,7 +68,7 @@ const Bio = () => {
         </a>
         <br></br>
         <a href={`${social.graphicfolio}`}>
-         or see my folio
+         or see my folio (still WIP)
         </a>
         
       </p>
