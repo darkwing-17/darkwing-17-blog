@@ -5,8 +5,7 @@ module.exports = {
     description: `Personal website and web / UX portfolio site.`,
     siteUrl: `https://edchu.dev/`,
     social: {
-      twitter: `darkwing17edc`,
-      graphicfolio: "https://echu21.myportfolio.com",
+      graphicfolio: "https://artstation.com/ecdesignworks",
       github: "https://github.com/darkwing-17",
       linkedin: "echu916",
       kofi: "Coming soon",
